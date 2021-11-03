@@ -10,3 +10,4 @@ Find instructions on how to run Plausible Analytics Self Hosted [in our docs](ht
 
 We are always looking to expand on the options and setups provided here. Feel free to open an issue or PR if you feel
 something could be improved.
+
